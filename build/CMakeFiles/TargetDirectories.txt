@@ -1,0 +1,6 @@
+/mnt/c/Users/Zacha/OneDrive/Desktop/projects/weave/build/CMakeFiles/intrinsics_gen.dir
+/mnt/c/Users/Zacha/OneDrive/Desktop/projects/weave/build/CMakeFiles/omp_gen.dir
+/mnt/c/Users/Zacha/OneDrive/Desktop/projects/weave/build/CMakeFiles/acc_gen.dir
+/mnt/c/Users/Zacha/OneDrive/Desktop/projects/weave/build/CMakeFiles/weave.dir
+/mnt/c/Users/Zacha/OneDrive/Desktop/projects/weave/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Zacha/OneDrive/Desktop/projects/weave/build/CMakeFiles/rebuild_cache.dir
